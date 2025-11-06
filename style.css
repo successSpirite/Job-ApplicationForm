@@ -13,8 +13,9 @@ body{
 .BigOne{
     width: 0%;
     height: 100%;
-    background-color: black;
-     animation: Progress-animation 1s forwards;
+    /* background-color: black; */
+     background-image: linear-gradient(to top, #09203f 0%, #537895 100%);
+     animation: Progress-animation 3s forwards;
 }
  
 @keyframes Progress-animation{
@@ -78,7 +79,8 @@ main{
     display: flex;
     justify-content: center;
     flex-direction: column;
-    background-color: wheat;
+    /* background-color: wheat; */
+    background-image: linear-gradient(to right, #a8caba 0%, #5d4157 100%);
     padding: 1em;
     border-radius: .2em;
     gap: .5em;
@@ -133,6 +135,7 @@ button{
 #textInput{
     width: 100%;
 }
+
 
 
 
