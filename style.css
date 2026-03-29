@@ -116,7 +116,7 @@ main{
     background-color:  rgb(0, 0, 0, 0.1);
 font-family: "Farsan",
 sans-serif;
-font-weight: 400;
+font-weight: 500;
 font-style: normal;
    
 }
@@ -135,7 +135,7 @@ input{
     height: 100%;
 }
 h1{
-    font-size: calc(.5em + .6vw);
+    font-size: calc(.7em + .8vw);
     font-weight: 800;
 }
 h1 span{
